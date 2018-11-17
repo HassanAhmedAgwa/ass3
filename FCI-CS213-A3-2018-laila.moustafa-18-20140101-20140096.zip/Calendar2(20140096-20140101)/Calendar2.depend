@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1542490494 source:e:\fci\5th year\oop\assignments\ass3\calendar2\appoinment.cpp
+	"Appoinment.h"
+
+1542478153 e:\fci\5th year\oop\assignments\ass3\calendar2\appoinment.h
+	"Time.h"
+
+1542223313 e:\fci\5th year\oop\assignments\ass3\calendar2\time.h
+	<iostream>
+
+1542488386 source:e:\fci\5th year\oop\assignments\ass3\calendar2\calendar.cpp
+	"Calendar.h"
+
+1542483733 e:\fci\5th year\oop\assignments\ass3\calendar2\calendar.h
+	"DayAppoinments.h"
+
+1542394134 e:\fci\5th year\oop\assignments\ass3\calendar2\dayappoinments.h
+	"Appoinment.h"
+
+1542488386 source:e:\fci\5th year\oop\assignments\ass3\calendar2\dayappoinments.cpp
+	"DayAppoinments.h"
+
+1542489618 source:e:\fci\5th year\oop\assignments\ass3\calendar2\main.cpp
+	<iostream>
+	"Time.h"
+	"Appoinment.h"
+	"DayAppoinments.h"
+	"Calendar.h"
+
+1542475299 source:e:\fci\5th year\oop\assignments\ass3\calendar2\time.cpp
+	"Time.h"
+	<iostream>
+	<iomanip>
+
